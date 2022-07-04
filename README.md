@@ -1,6 +1,6 @@
 # Hi everyone I'm Benjamin Charles 
 
-I just graduated from [O'clock](https://oclock.io/ "O'clock") :mortar_board:
+I've just finished studying at: [O'clock](https://oclock.io/ "O'clock") :mortar_board:
 
 ![image](./github.svg)
 
