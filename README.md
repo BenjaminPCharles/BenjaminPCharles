@@ -11,6 +11,6 @@ I've just finished studying at: [O'clock](https://oclock.io/ "O'clock") :mortar_
 const benjamin = {
     school: "O'clock",
     spokenLanguages: ["Francais", "Anglais"],
-    skills: ["HTML", "CSS", "ScSS", "Javascript", "Node.js", "Express", "PostgreSQL", "React", "Redux"]
+    skills: ["HTML", "CSS", "ScSS", "Javascript", "Node.js", "Express", "PostgreSQL", "React", "Redux", "Next", "Nest"]
 };
 ````
