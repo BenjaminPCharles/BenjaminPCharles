@@ -1,7 +1,5 @@
 # 🚀 Benjamin – Full-Stack Developer
 
-## 🏗️ Architecting Scalable & Performant Applications
-
 ### About Me
 
 I'm a **full-stack developer** with **2+ years of experience**, specializing in **TypeScript, NestJS, and Next.js**. My focus? **Building robust, scalable architectures** and optimizing performance for modern web applications.
@@ -41,8 +39,3 @@ I thrive on **clean code, system design, and backend optimization** while ensuri
 
 ---
 
-## 📫 Let's Connect
-
-Feel free to reach out! I'm always open to discussing new ideas and collaborations.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-charles-b99069234/)
