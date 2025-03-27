@@ -14,13 +14,13 @@ I thrive on **clean code, system design, and backend optimization** while ensuri
 
 - **TypeScript, Node.js (NestJS, Fastify, Express)**
 - **Databases**: PostgreSQL (Prisma ORM), MongoDB
-- **Infrastructure**: Docker, CI/CD, Kubernetes, Nginx
+- **Infrastructure**: Docker, CI/CD, Nginx
 - **Security & Logging**: Authentication, Role-Based Access Control, Monitoring
 
 ### 🎨 Frontend
 
 - **React, Next.js (App Router & Server Components)**
-- **State Management**: Redux, Zustand
+- **State Management**: Redux
 - **UI Frameworks**: Tailwind, Chakra UI, Mui
 
 ### 📡 DevOps & Tooling
