@@ -38,4 +38,3 @@ I thrive on **clean code, system design, and backend optimization** while ensuri
 - **Security & logging** for enterprise applications
 
 ---
-
