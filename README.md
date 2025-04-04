@@ -17,6 +17,8 @@ I thrive on **clean code, system design, and backend optimization** while ensuri
 - **Infrastructure**: Docker, CI/CD, Nginx
 - **Security & Logging**: Authentication, Role-Based Access Control, Monitoring
 
+---
+
 ### 🎨 Frontend
 
 - **React, Next.js (App Router & Server Components)**
