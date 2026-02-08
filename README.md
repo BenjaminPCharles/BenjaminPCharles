@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a **full-stack developer** with **2+ years of experience**, specializing in **TypeScript, NestJS, and Next.js**. My focus? **Building robust, scalable architectures** and optimizing performance for modern web applications.
+I'm a **full-stack developer** since **2020**, specializing in **TypeScript, NestJS, and Next.js**. My focus? **Building robust, scalable architectures** and optimizing performance for modern web applications.
 
 I thrive on **clean code, system design, and backend optimization** while ensuring seamless frontend experiences. **Security, logging, and DevOps** are an integral part of my workflow.
 
