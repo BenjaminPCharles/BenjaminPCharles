@@ -21,7 +21,6 @@ Hi! I'm Benjamin Charles a web developer since - 2020 - with a passion for build
 
 ### 💬 Contact & Links
 
-* **Email:** benjamincharles.dev@proton.me
 * **LinkedIn:** [Benjamin Charles](https://www.linkedin.com/in/benjamin-charles-b99069234/)
 * **Portfolio:** [benjamincharles.vercel.app](https://benjamincharles.vercel.app)
 * **Based in:** Annecy, France 🏔️
