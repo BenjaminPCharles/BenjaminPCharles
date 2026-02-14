@@ -1,42 +1,28 @@
-# 🚀 Benjamin – Full-Stack Developer
+# Benjamin Charles
 
-### About Me
+**Full-Stack Developer | TypeScript • NestJS • Next.js**
 
-I'm a **full-stack developer** since **2020**, specializing in **TypeScript, NestJS, and Next.js**. My focus? **Building robust, scalable architectures** and optimizing performance for modern web applications.
-
-I thrive on **clean code, system design, and backend optimization** while ensuring seamless frontend experiences. **Security, logging, and DevOps** are an integral part of my workflow.
+Software Developer since 2020, focused on building maintainable and high-performance web architectures. I prioritize technical rigor, system monitoring, and backend optimization.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Technical Stack
 
-### ⚙️ Backend & Architecture
+* [cite_start]**Backend:** TypeScript, Node.js (NestJS, Fastify), PostgreSQL, Prisma, MongoDB. [cite: 13, 14, 16]
+* [cite_start]**Frontend:** React, Next.js (App Router), Tailwind CSS. [cite: 11, 17]
+* [cite_start]**Infrastructure & Ops:** Docker, CI/CD, Grafana, Prometheus, Loki. [cite: 19, 20]
+* **Testing:** Jest, Cypress, Playwright.
 
-- **TypeScript, Node.js (NestJS, Fastify, Express)**
-- **Databases**: PostgreSQL (Prisma ORM), MongoDB
-- **Infrastructure**: Docker, CI/CD, Nginx
-- **Security & Logging**: Authentication, Role-Based Access Control, Monitoring
+### 📂 Projects & Experience
 
----
-
-### 🎨 Frontend
-
-- **React, Next.js (App Router & Server Components)**
-- **State Management**: Redux
-- **UI Frameworks**: Tailwind, Chakra UI, Mui
-
-### 📡 DevOps & Tooling
-
-- **Docker, CI/CD Pipelines**
-- **Logging & Monitoring**: Loki, Prometheus, Grafana
-- **Testing**: Jest, Cypress, Playwright
+* [cite_start]**Nexteneo (Current Position):** Developing a SaaS platform for EV charging station supervision and energy management (OCPP protocol). [cite: 24, 25, 30]
+* [cite_start]**Chatbot RAG:** Full RAG architecture using OpenAI, Hugging Face embeddings, and vector storage with ChromaDB. [cite: 33, 34, 36]
+* [cite_start]**Pawio:** Full-stack SaaS management platform for pet-sitters (Next.js / NestJS / PostgreSQL). [cite: 38, 39, 40]
 
 ---
 
-## 🚀 What I’m Working On
+### 📫 Contact Me
 
-- **Backend architecture** for scalable SaaS solutions
-- **Optimizing performance** in distributed systems
-- **Security & logging** for enterprise applications
-
----
+* [cite_start]**Email:** [benjamincharles.dev@proton.me](mailto:benjamincharles.dev@proton.me) [cite: 2]
+* [cite_start]**LinkedIn:** [linkedin.com/in/benjamin-charles-b99069234/](https://www.linkedin.com/in/benjamin-charles-b99069234/) [cite: 5]
+* [cite_start]**Portfolio:** [benjamincharles.vercel.app](https://benjamincharles.vercel.app) [cite: 6]
