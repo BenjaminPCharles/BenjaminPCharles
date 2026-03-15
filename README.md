@@ -2,7 +2,7 @@
 
 Hi! I'm Benjamin Charles a web developer since - 2020 - with a passion for building web applications.
 
-----
+-----
 
 ### 🛠 Tech Stack
 
@@ -17,7 +17,7 @@ Hi! I'm Benjamin Charles a web developer since - 2020 - with a passion for build
 * **Chatbot RAG:** Building a full RAG architecture with OpenAI and ChromaDB.
 * **Pawio:** A full-stack management platform for pet-sitters.
 
-----
+-----
 
 ### 💬 Contact & Links
 
